@@ -9,3 +9,5 @@ def main():
     
 if __name__ == "__main__":
     main()
+print("Nueva línea")
+print("Fin del programa")
